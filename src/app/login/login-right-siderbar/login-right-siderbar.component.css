@@ -1,0 +1,91 @@
+.welcome-to-Fooderos {
+  font-size: 34px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: normal;
+  text-align: center;
+  color: #31373e;
+}
+
+.please-enter-your-ph {
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #919aa7;
+  margin-bottom: 30px;
+}
+
+.phone-field{
+  margin-left: 20px;
+}
+
+.btn-block{
+  width: 100%;
+  background: #0371e8;
+  color: white;
+  display: block;
+}
+
+.example-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.by-signing-in-you-ag{
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #31373e;
+  margin-top: 32px;
+}
+
+.terms-and-Conditions{
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0371e8;
+  cursor: pointer;
+}
+
+.oval{
+  background: #0371e8;
+  width: 96px;
+  height: 96px;
+  box-shadow: 0 4px 10px 0 rgba(45, 80, 238, 0.24);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.inner-oval{
+  width: 44px;
+  height: 44px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}

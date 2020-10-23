@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+  flex-basis: 50%;
+}
+.col{
+  width: 50vw;
+}
+
+
